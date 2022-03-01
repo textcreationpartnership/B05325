@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act for securing the publick peace. At Hally-rude-house, the 14. day of February, 1678.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05325</idno>
+            <idno type="STC">Wing S1432</idno>
+            <idno type="STC">ESTC R183005</idno>
+            <idno type="EEBO-CITATION">52612248</idno>
+            <idno type="OCLC">ocm 52612248</idno>
+            <idno type="VID">179553</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05325)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179553)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2793:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act for securing the publick peace. At Hally-rude-house, the 14. day of February, 1678.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Gibson, Alexander, Sir, d. 1693.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to the King's most sacred Majestie,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Signed at end: Al. Gibsone, Cls. Sti. Concilii.</note>
+                  <note>Requires all persons who have not signed the bond against conventicles to enroll themselves in the books of the Privy council, guaranteeing to keep the peace and not attend conventicles.</note>
+                  <note>Imperfect: stained and torn with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Assembly, Right of --  Scotland --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  Legal status, laws, etc. --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179553:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 12 -->
+            <head>
+               <figure>
+                  <p>C R</p>
+                  <q>
+                     <gap reason="illegible" extent="6 words">
+                        <desc>〈◊◊◊◊◊◊〉</desc>
+                     </gap>
+                  </q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>ACT FOR ſecuring the publick Peace.</head>
+            <opener>
+               <dateline>At <hi>Hally-rude-houſe,</hi> 
+                  <date>the 14. day of <hi>February,</hi> 1678.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Lords of His <hi>Majeſties</hi> Privy Council conſidering ſeriouſly, that the greateſt part of the diſorders of this Nationare occa<g ref="char:EOLhyphen"/>ſioned by a ſeditious and ſchiſmatick humour in ſome <hi>Weſterne</hi> and other Shires, which upon all occaſions inflames them into great Irregularities, and remembring how, albeit it might have been expected after His <hi>Majeſties</hi> happy Reſtauration, that the freſh remembrance of theſe inſolencie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which we ſuffered under a Tyrannick uſurpation, (drawn upon us by the ſame ſediti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us Principles, which begin now to revive <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n thoſe places) would have inclined all His <hi>Majeſties</hi> good Subjects to live with great ſatisfaction quietly un<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> His happy Government, and to believe that the Laws made by His <hi>Majeſty,</hi> and their own Repreſenta<g ref="char:EOLhyphen"/>ti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, were both the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>g remedies of theſe bygone diſtempers, and the ſafeſt means for preventing the like for <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Shires did, by a moſt remarkable principle of diſloyalty, riſe in rebellion againſt their Native <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> He was ingadged in a forraign war: And though after the beating of their forces, His <hi>Maj<g ref="char:EOLhyphen"/>eſty</hi> had <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> even to theſe Rebels, and had ſo far gratified thoſe Shires, as to grant them an Indulgence; <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they continued ſtill to diſturbe the <unclear>Peace</unclear> their infection over the neighbouring Shires, by aſſembling themſelves in field Con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: missing" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ticles, theſe <hi>Rendezvouſes</hi> of rebellion, reſſent<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>g, and hearing Intercommuned Preachers, and declared Traitors, who infuſed in them <gap reason="illegible: missing" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and boldly rebellious and treacherous Princi<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nvading the perſons, uſurping the Pulpits of the Orthodox Clergie, threatning, affron<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>g, and injuring both them and ſuch as adhered to them <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>d by diſobeying and deforceing with armed men in a Hoſtile manner, and even woun<g ref="char:EOLhyphen"/>ding and killing ſuch as offered in His Majeſties name to put <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>s in execution: And to let the world ſee that they were fixedly reſolved to ad<g ref="char:EOLhyphen"/>here to theſe principles in ſpight of Authority, and that they had <gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>ed themſelves in a permanent form of Government (as they imagined) They did hold Seſſions, Presbyteries and Aſſemblies, eſtabliſhed correſpo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cies, and for perpetuating the Schiſme, Ordained and granted Miſſions to Preachers, built Meeting-places, and taxed His Majeſties Subjects for their maintainance: And that they might cut off their Proſelytes from all depen<g ref="char:EOLhyphen"/>dence upon their Native Prince, againſt whoſe Perſon and Government they railed upon all occaſions; they at laſt arrived at ſo great a height of rebel<g ref="char:EOLhyphen"/>lion, as to perſwade the people, that it was unlawful to take the Oath of Alleadgeance: Whereupon the Lords of His Majeſties Privy Council, upon deſigne to prevent theſe growing diſorders, or the juſt ſeverity which the Authors thereof had deſerved, Did Ordain the Commiſſioners of Exciſe, Militia, and Juſtices of Peace within theſe Shires, to meet and to propoſe ſuch means as might effectually ſecure His Majeſtie and the Peace of the Countrey; With certification that if they did not, His Majeſtie behoved to reduce them to their dutie by force, and would look upon the Heretors therein who refuſed to ſecure the peace (as ſaid is) as involved in, and fautors of, thoſe ſeditious and diſorderly courſes. To which they re<g ref="char:EOLhyphen"/>turned no other anſwer, ſave that theſe diſorders were grown to ſuch a height, that it was not in their power to redreſs them; whereupon it was thought high time to acquaint His Majeſtie with the preſent ſtate of theſe His Affairs here, Who to vindicate His own Authority, and from a tender Care of His People, whoſe ſecurity with that of His Laws, He did foreſee to be under-mined by ſuch pernicious contrivances and practiſes; Did by His Royall <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, dated the eleventh day of <hi>December,</hi> 1677. declare His reſentment againſt, and His deteſtation of theſe courſes: And for ſup<g ref="char:EOLhyphen"/>preſſing thereof, commanded and authoriſed His ſaid Privy Council, to proceed by force and armes, to reduce that Countrey to their obedience, and to obliege them to give bands for their own, and their tenents, living Regularly and Obedient to the Laws; And particularly, that they ſhould not go to Conventicles, harbour nor commune with Rebels, or perſons intercommuned, and for keeping the perſons, families, and goods of their regular Miniſters harmleſs; and that under ſuch penalties as they ſhould think fit. In obedience to which Letter, a band was accordingly drawn, onely oblieging the Heretors alternatively, either to preſent their tenents, or to remove them; and declared, that they ſhould be onely anſwerable for their ſaids tenents, if they were convict within a year after the committing of theſe delinquencies. All which couries proving ineffectual, His Majeſtie hath juſt reaſon to ſuſpect the deſignes of ſuch as have, or ſhall refuſe or delay to take the ſaid band, as tending to overthrow His Majeſties Authority, to ſubvert the eſtabliſhed Order of the Church, and to diſquiet the Peace of His Majeſties good Subjects: And ſince every privat Sub<g ref="char:EOLhyphen"/>ject may force ſuch, from whom they fear any harm, to ſecure them by Lawborrows, and that it hath been the uncontroverted and Legal practice of His <hi>Majeſties</hi> Privy Council to obliege ſuch, whoſe peaceableneſs they juſtly ſuſpected, to ſecure the peace for themſelves, their Wives, Bairns, Men, tenents, and Servants, which are the very words of all ſuch bands, and that under ſuch penalties as they find ſuitable to their contempt, guilt or occaſion, upon which <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and ſuitable to the qualities of ſuch from whom caution is craved. Therefore, the Lords of His Majeſties Privy Cou<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>y hath declared His juſt ſuſpition of thoſe who refuſe or delay to take the ſaid band in the terms fore<g ref="char:EOLhyphen"/>ſaids; And the ſaids Lords, bes<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>e ſeries foreſaid juſtly ſuſpicious of the practiſes and principles of ſuch as refuſe the ſame, do Or<g ref="char:EOLhyphen"/>dain, That all ſuch perſons as refuſe the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſhall be oblieged to Enact themſelves in the books of Secret Council, that they, their wives, bairns<g ref="char:punc">▪</g> men, tennants, and ſervants, ſhall keep His Majeſties s Peace, and particularly, that they ſhal not goe to field Conventicles, nor harbour nor commune with Rebells, or perſons intercom<gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>ed <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d that they ſhall keep the perſons, families and goods of Regular Miniſters harmleſs; and that under the double of every mans valued yearly <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t, (if he have any) and of ſuch other penalties as ſhall be thought convenient by the <gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>rds of His Majeſties Privy Councill, or their Comm<gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>, if they have no valued rent: ordaining Letters to be direct for charging all ſuch per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> refuſe to take the ſaid band<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, to Enact themſelves <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the books of Privy Council, to the effect foreſaid, and that within ſix days <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the charge, under the pain of rebellion, and p<gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>g of them to the horn; With certification to them if they if they faile, the ſaid ſpace being <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>d by-paſt, that they ſhall be denunced Rebels, and put to the horn for their contempt and diſobedience: And Ordains theſe preſents to be</p>
+            <closer>
+               <signed>Extracted by me, <hi>Al. Gibſone. Cls.</hi> Sti. Concilii.</signed>
+               <lb/>
+GOD ſave the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to the King's moſt Sacred <hi>Majeſtie,</hi> 1678.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
